@@ -1,4 +1,4 @@
-# UnsortedPropirutyQueue
+# Unsorted Priority Queue
 
 This code is an implementation of a Priority Queue using an **unsorted list**.
 The **priority queue** stores elements in an unsorted list, and the element with the highest priority (smallest value) is retrieved or removed during operations.
